@@ -6,13 +6,12 @@
   <h3>👨‍💻 Hi there, I'm Siddhi!</h3>
 </div>
 
-I have Completed Python, Machine Learning & Deep Learning and I am currently diving deep into Data Structures and Alogrithms. I love data projects! Passionate about building and learning new technologies
+I have Completed **Python, Machine Learning & Deep Learning** and I am currently diving deep into **Data Structures and Alogrithms**. Passionate about building and learning new technologies
 
 - 💻 **DSA Learner** | Solving **LeetCode** consistently to strengthen problem-solving and coding skills 🚀
 - 🔭 I’m planning to learn **MySQL, MongoDB, and Data Structures (DSA)** next.
-- 👯 I’m looking to collaborate on **Open Source ML projects & Kaggle Competitions**.
+- 👯 I’m looking to collaborate on **Open Source ML projects & Competitions**.
 - 🤔 I’m looking for help with **Optimization techniques in Deep Learning**.
-- 💬 Ask me about **Python, Regression/Classification, and Data Visualization**.
 - 📫 **Reach me at:** [siddhiatre23@gmail.com](mailto:siddhiatre23@gmail.com)
 
 <div align="center">
@@ -33,8 +32,6 @@ I have Completed Python, Machine Learning & Deep Learning and I am currently div
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
 <br/>
 
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
