@@ -6,9 +6,8 @@
   <h3>👨‍💻 Hi there, I'm Siddhi!</h3>
 </div>
 
-I have finished Python and Machine Learning and I am currently diving deep into Neural Networks. I love data projects and collaboration!
+I have Completed Python, Machine Learning & Deep Learning and I am currently diving deep into Data Structures and Alogrithms. I love data projects! Passionate about building and learning new technologies
 
-- 🧠 **Completed Python, Machine Learning & Deep Learning** | Passionate about building and learning new technologies 🚀
 - 💻 **DSA Learner** | Solving **LeetCode** consistently to strengthen problem-solving and coding skills 🚀
 - 🔭 I’m planning to learn **MySQL, MongoDB, and Data Structures (DSA)** next.
 - 👯 I’m looking to collaborate on **Open Source ML projects & Kaggle Competitions**.
