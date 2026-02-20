@@ -8,7 +8,8 @@
 
 I have finished Python and Machine Learning and I am currently diving deep into Neural Networks. I love data projects and collaboration!
 
-- 🌱 I’m currently learning **Deep Learning (CNNs, RNNs)**.
+- 🧠 **Completed Python, Machine Learning & Deep Learning** | Passionate about building and learning new technologies 🚀
+- 💻 **DSA Learner** | Solving **LeetCode** consistently to strengthen problem-solving and coding skills 🚀
 - 🔭 I’m planning to learn **MySQL, MongoDB, and Data Structures (DSA)** next.
 - 👯 I’m looking to collaborate on **Open Source ML projects & Kaggle Competitions**.
 - 🤔 I’m looking for help with **Optimization techniques in Deep Learning**.
